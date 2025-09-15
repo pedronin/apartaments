@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "title": "3-комнатная №101",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 13095093,
+    "area": 76.9,
+    "floor": 12,
+    "maxFloor": 16,
+    "rooms": 3
+  },
+  {
+    "id": 2,
+    "title": "4-комнатная №102",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 10084900,
+    "area": 25.5,
+    "floor": 3,
+    "maxFloor": 16,
+    "rooms": 4
+  },
+  {
+    "id": 3,
+    "title": "4-комнатная №103",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 8872425,
+    "area": 82.3,
+    "floor": 7,
+    "maxFloor": 9,
+    "rooms": 4
+  },
+  {
+    "id": 4,
+    "title": "2-комнатная №104",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 3937023,
+    "area": 103.8,
+    "floor": 21,
+    "maxFloor": 25,
+    "rooms": 2
+  },
+  {
+    "id": 5,
+    "title": "4-комнатная №105",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 14763406,
+    "area": 78.4,
+    "floor": 1,
+    "maxFloor": 12,
+    "rooms": 4
+  },
+  {
+    "id": 6,
+    "title": "3-комнатная №106",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 5356565,
+    "area": 94.0,
+    "floor": 1,
+    "maxFloor": 9,
+    "rooms": 3
+  },
+  {
+    "id": 7,
+    "title": "2-комнатная №107",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 11285308,
+    "area": 79.3,
+    "floor": 9,
+    "maxFloor": 9,
+    "rooms": 2
+  },
+  {
+    "id": 8,
+    "title": "2-комнатная №108",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 8731919,
+    "area": 72.7,
+    "floor": 20,
+    "maxFloor": 22,
+    "rooms": 2
+  },
+  {
+    "id": 9,
+    "title": "1-комнатная №109",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 7241591,
+    "area": 35.1,
+    "floor": 23,
+    "maxFloor": 25,
+    "rooms": 1
+  },
+  {
+    "id": 10,
+    "title": "1-комнатная №110",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 3465647,
+    "area": 96.4,
+    "floor": 21,
+    "maxFloor": 25,
+    "rooms": 1
+  },
+  {
+    "id": 11,
+    "title": "4-комнатная №111",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 5020811,
+    "area": 101.5,
+    "floor": 10,
+    "maxFloor": 16,
+    "rooms": 4
+  },
+  {
+    "id": 12,
+    "title": "2-комнатная №112",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 9381034,
+    "area": 119.3,
+    "floor": 2,
+    "maxFloor": 5,
+    "rooms": 2
+  },
+  {
+    "id": 13,
+    "title": "4-комнатная №113",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 14873686,
+    "area": 82.2,
+    "floor": 12,
+    "maxFloor": 16,
+    "rooms": 4
+  },
+  {
+    "id": 14,
+    "title": "1-комнатная №114",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 14645025,
+    "area": 105.9,
+    "floor": 18,
+    "maxFloor": 22,
+    "rooms": 1
+  },
+  {
+    "id": 15,
+    "title": "4-комнатная №115",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 7057163,
+    "area": 101.6,
+    "floor": 15,
+    "maxFloor": 16,
+    "rooms": 4
+  },
+  {
+    "id": 16,
+    "title": "2-комнатная №116",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 6957514,
+    "area": 49.3,
+    "floor": 4,
+    "maxFloor": 12,
+    "rooms": 2
+  },
+  {
+    "id": 17,
+    "title": "2-комнатная №117",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 10446133,
+    "area": 49.1,
+    "floor": 6,
+    "maxFloor": 16,
+    "rooms": 2
+  },
+  {
+    "id": 18,
+    "title": "4-комнатная №118",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 3515570,
+    "area": 54.5,
+    "floor": 5,
+    "maxFloor": 9,
+    "rooms": 4
+  },
+  {
+    "id": 19,
+    "title": "4-комнатная №119",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 6280410,
+    "area": 106.0,
+    "floor": 18,
+    "maxFloor": 20,
+    "rooms": 4
+  },
+  {
+    "id": 20,
+    "title": "1-комнатная №120",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 14527711,
+    "area": 66.1,
+    "floor": 6,
+    "maxFloor": 16,
+    "rooms": 1
+  },
+  {
+    "id": 21,
+    "title": "2-комнатная №121",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 9829963,
+    "area": 71.4,
+    "floor": 2,
+    "maxFloor": 9,
+    "rooms": 2
+  },
+  {
+    "id": 22,
+    "title": "1-комнатная №122",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 12394459,
+    "area": 50.9,
+    "floor": 13,
+    "maxFloor": 18,
+    "rooms": 1
+  },
+  {
+    "id": 23,
+    "title": "3-комнатная №123",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 13366751,
+    "area": 63.3,
+    "floor": 2,
+    "maxFloor": 9,
+    "rooms": 3
+  },
+  {
+    "id": 24,
+    "title": "3-комнатная №124",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 13914174,
+    "area": 95.1,
+    "floor": 22,
+    "maxFloor": 22,
+    "rooms": 3
+  },
+  {
+    "id": 25,
+    "title": "3-комнатная №125",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 14627732,
+    "area": 90.0,
+    "floor": 2,
+    "maxFloor": 25,
+    "rooms": 3
+  },
+  {
+    "id": 26,
+    "title": "3-комнатная №126",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 14540546,
+    "area": 106.2,
+    "floor": 9,
+    "maxFloor": 16,
+    "rooms": 3
+  },
+  {
+    "id": 27,
+    "title": "2-комнатная №127",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 11992563,
+    "area": 89.3,
+    "floor": 23,
+    "maxFloor": 24,
+    "rooms": 2
+  },
+  {
+    "id": 28,
+    "title": "4-комнатная №128",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 6461036,
+    "area": 44.2,
+    "floor": 10,
+    "maxFloor": 16,
+    "rooms": 4
+  },
+  {
+    "id": 29,
+    "title": "1-комнатная №129",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 10667290,
+    "area": 109.6,
+    "floor": 14,
+    "maxFloor": 18,
+    "rooms": 1
+  },
+  {
+    "id": 30,
+    "title": "1-комнатная №130",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 5903919,
+    "area": 100.4,
+    "floor": 13,
+    "maxFloor": 16,
+    "rooms": 1
+  },
+  {
+    "id": 31,
+    "title": "3-комнатная №131",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 7780093,
+    "area": 69.9,
+    "floor": 5,
+    "maxFloor": 9,
+    "rooms": 3
+  },
+  {
+    "id": 32,
+    "title": "2-комнатная №132",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 3271158,
+    "area": 83.7,
+    "floor": 8,
+    "maxFloor": 12,
+    "rooms": 2
+  },
+  {
+    "id": 33,
+    "title": "4-комнатная №133",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 3466473,
+    "area": 101.0,
+    "floor": 6,
+    "maxFloor": 25,
+    "rooms": 4
+  },
+  {
+    "id": 34,
+    "title": "1-комнатная №134",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 14728739,
+    "area": 62.2,
+    "floor": 20,
+    "maxFloor": 22,
+    "rooms": 1
+  },
+  {
+    "id": 35,
+    "title": "3-комнатная №135",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 12962914,
+    "area": 118.0,
+    "floor": 13,
+    "maxFloor": 16,
+    "rooms": 3
+  },
+  {
+    "id": 36,
+    "title": "1-комнатная №136",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 6925777,
+    "area": 99.2,
+    "floor": 14,
+    "maxFloor": 25,
+    "rooms": 1
+  },
+  {
+    "id": 37,
+    "title": "2-комнатная №137",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 5113596,
+    "area": 103.8,
+    "floor": 1,
+    "maxFloor": 12,
+    "rooms": 2
+  },
+  {
+    "id": 38,
+    "title": "3-комнатная №138",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 4989215,
+    "area": 34.1,
+    "floor": 11,
+    "maxFloor": 16,
+    "rooms": 3
+  },
+  {
+    "id": 39,
+    "title": "1-комнатная №139",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 13857499,
+    "area": 47.2,
+    "floor": 1,
+    "maxFloor": 5,
+    "rooms": 1
+  },
+  {
+    "id": 40,
+    "title": "4-комнатная №140",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 13716718,
+    "area": 116.0,
+    "floor": 6,
+    "maxFloor": 25,
+    "rooms": 4
+  },
+  {
+    "id": 41,
+    "title": "2-комнатная №141",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 14064245,
+    "area": 118.6,
+    "floor": 3,
+    "maxFloor": 9,
+    "rooms": 2
+  },
+  {
+    "id": 42,
+    "title": "4-комнатная №142",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 5015835,
+    "area": 38.7,
+    "floor": 2,
+    "maxFloor": 12,
+    "rooms": 4
+  },
+  {
+    "id": 43,
+    "title": "3-комнатная №143",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 9153758,
+    "area": 30.5,
+    "floor": 17,
+    "maxFloor": 30,
+    "rooms": 3
+  },
+  {
+    "id": 44,
+    "title": "3-комнатная №144",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 8131413,
+    "area": 30.2,
+    "floor": 17,
+    "maxFloor": 25,
+    "rooms": 3
+  },
+  {
+    "id": 45,
+    "title": "3-комнатная №145",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 3626405,
+    "area": 101.1,
+    "floor": 5,
+    "maxFloor": 5,
+    "rooms": 3
+  },
+  {
+    "id": 46,
+    "title": "1-комнатная №146",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 11052171,
+    "area": 77.7,
+    "floor": 5,
+    "maxFloor": 25,
+    "rooms": 1
+  },
+  {
+    "id": 47,
+    "title": "3-комнатная №147",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 12634302,
+    "area": 45.8,
+    "floor": 6,
+    "maxFloor": 25,
+    "rooms": 3
+  },
+  {
+    "id": 48,
+    "title": "2-комнатная №148",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 7762214,
+    "area": 38.2,
+    "floor": 9,
+    "maxFloor": 16,
+    "rooms": 2
+  },
+  {
+    "id": 49,
+    "title": "3-комнатная №149",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 13677751,
+    "area": 27.8,
+    "floor": 14,
+    "maxFloor": 22,
+    "rooms": 3
+  },
+  {
+    "id": 50,
+    "title": "2-комнатная №150",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 7211434,
+    "area": 46.5,
+    "floor": 11,
+    "maxFloor": 22,
+    "rooms": 2
+  },
+  {
+    "id": 51,
+    "title": "3-комнатная №151",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 10711066,
+    "area": 59.1,
+    "floor": 12,
+    "maxFloor": 25,
+    "rooms": 3
+  },
+  {
+    "id": 52,
+    "title": "4-комнатная №152",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 7263694,
+    "area": 92.6,
+    "floor": 16,
+    "maxFloor": 22,
+    "rooms": 4
+  },
+  {
+    "id": 53,
+    "title": "2-комнатная №153",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 4809311,
+    "area": 27.8,
+    "floor": 3,
+    "maxFloor": 16,
+    "rooms": 2
+  },
+  {
+    "id": 54,
+    "title": "4-комнатная №154",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 10313937,
+    "area": 52.6,
+    "floor": 5,
+    "maxFloor": 16,
+    "rooms": 4
+  },
+  {
+    "id": 55,
+    "title": "4-комнатная №155",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 9981335,
+    "area": 34.4,
+    "floor": 17,
+    "maxFloor": 25,
+    "rooms": 4
+  },
+  {
+    "id": 56,
+    "title": "5-комнатная №156",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 8722110,
+    "area": 135,
+    "floor": 3,
+    "maxFloor": 5,
+    "rooms": 5
+  },
+  {
+    "id": 57,
+    "title": "4-комнатная №157",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 10550176,
+    "area": 81.1,
+    "floor": 7,
+    "maxFloor": 19,
+    "rooms": 4
+  },
+  {
+    "id": 58,
+    "title": "3-комнатная №158",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 9307634,
+    "area": 75.0,
+    "floor": 11,
+    "maxFloor": 18,
+    "rooms": 3
+  },
+  {
+    "id": 59,
+    "title": "2-комнатная №159",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 8042401,
+    "area": 86.1,
+    "floor": 21,
+    "maxFloor": 22,
+    "rooms": 2
+  },
+  {
+    "id": 60,
+    "title": "1-комнатная №160",
+    "imgSrc": "/img/apartments-plan.jpg",
+    "price": 5071341,
+    "area": 110.0,
+    "floor": 8,
+    "maxFloor": 15,
+    "rooms": 1
+  }
+]

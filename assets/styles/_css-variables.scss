@@ -1,0 +1,25 @@
+@use "variables" as *;
+
+:root {
+  // Fonts
+  --font-size-h1: 54px;
+  --font-size-p2_regular: 16px;
+  --font-size-p2_medium: 16px;
+  --font-size-p3_regular: 14px;
+
+  --line-height-h1: 55px;
+  --line-height-p2_regular: 24px;
+  --line-height-p3_regular: 20px;
+}
+
+@media ($screen-huge) {
+  :root {
+    // Fonts
+    --font-size-p2_regular: 14px;
+    --font-size-p2_medium: 14px;
+    --font-size-p3_regular: 13px;
+
+    --line-height-p2_regular: 20px;
+    --line-height-p3_regular: 18px;
+  }
+}

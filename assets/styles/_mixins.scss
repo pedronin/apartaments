@@ -1,0 +1,19 @@
+@use "variables" as *;
+
+@mixin h1() {
+  font-size: var(--font-size-h1);
+  font-weight: var(--font-weight-bold);
+  line-height: var(--line-height-h1);
+}
+
+@mixin p2-regular() {
+  font-size: var(--font-size-p2_regular);
+  font-weight: var(--font-weight-regular);
+  line-height: var(--line-height-p2_regular);
+}
+
+@mixin p3-regular() {
+  font-size: var(--font-size-p3_regular);
+  font-weight: var(--font-weight-regular);
+  line-height: var(--line-height-p3_regular);
+}
