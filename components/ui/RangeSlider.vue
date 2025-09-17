@@ -6,12 +6,12 @@ interface IProps {
   disabled?: boolean;
   min: number;
   max: number;
-  step: number;
+  step?: number;
   label: string;
 }
 
 defineProps<IProps>();
-defineEmits<{ (e: "update:value", value: number[]): void }>();
+defineEmits<{ (e: "update:value", value: [number, number]): void }>();
 </script>
 
 <template>
@@ -42,7 +42,7 @@ defineEmits<{ (e: "update:value", value: number[]): void }>();
       :disabled="disabled"
       :min="min"
       :max="max"
-      :step="step"
+      :interval="step"
       @update:model-value="$emit('update:value', $event)"
     />
   </div>

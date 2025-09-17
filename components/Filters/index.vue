@@ -56,7 +56,7 @@ const roomOptions = computed<IChoiceOption[]>(() => {
       :disabled="store.isLoading"
       :min="store.filterLimits.price.min"
       :max="store.filterLimits.price.max"
-      :step="500"
+      :step="100000"
       @update:value="store.setFilters({ price: $event })"
     />
 
@@ -72,7 +72,6 @@ const roomOptions = computed<IChoiceOption[]>(() => {
       :disabled="store.isLoading"
       :min="store.filterLimits.area.min"
       :max="store.filterLimits.area.max"
-      :step="500"
       @update:value="store.setFilters({ area: $event })"
     />
 
